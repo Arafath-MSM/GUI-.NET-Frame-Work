@@ -4,6 +4,7 @@ a GUI to calculate interest earned for fixed deposits.
 Task 3:
 Create a GUI to calculate interest earned for fixed deposits. There are two type of fixed
 deposits available
+
 1. Interest at maturity - the capital amount and compound interest will be returned
 at maturity
 2. Interest paid monthly – the interest will be equally divided and paid monthly until
