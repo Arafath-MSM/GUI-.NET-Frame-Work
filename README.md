@@ -1,5 +1,5 @@
 # GUI-.NET-Frame-Work
-a GUI to calculate interest earned for fixed deposits. 
+A GUI to calculate interest earned for fixed deposits. 
 
 Task 3:
 Create a GUI to calculate interest earned for fixed deposits. There are two type of fixed
